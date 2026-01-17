@@ -1,0 +1,6 @@
+APP - Estado de funcionalidades
+
+[X] Login
+[ ] Perfil de usuario
+[ ] Recuperación de contraseña
+[ ] Panel de administración
