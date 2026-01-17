@@ -1,6 +1,6 @@
 APP - Estado de funcionalidades
 
 [X] Login
-[ ] Perfil de usuario
+[ ] Perfil de usuario (PENDIENTE - rama B)
 [ ] Recuperación de contraseña
 [ ] Panel de administración
