@@ -22,7 +22,7 @@ Repositorio de práctica para fortalecer el flujo básico de trabajo con Git:
 
 ## Archivos principales
 - **app.txt**: checklist simple de funcionalidades (login, perfil, etc.).
-- **web/login.html**: página HTML para evidenciar el desarrollo de la rama `feature/login-tuNombre`.
+- **web/login.html**: página HTML para evidenciar el desarrollo de la rama `feature/login-xdelgado`.
 
 ## Flujo de trabajo realizado
 
